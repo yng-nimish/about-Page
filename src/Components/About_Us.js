@@ -1,7 +1,7 @@
 import React from "react";
 
 import { FiArrowRight } from "react-icons/fi";
-import BannerImage from "file:///Users/nimishs/Documents/landingpg-2/landingpg2/src/Assets/logo2.svg";
+import BannerImage from "../Assets/logo2.svg";
 import Footer from "./Footer";
 
 const About_Us = () => {
